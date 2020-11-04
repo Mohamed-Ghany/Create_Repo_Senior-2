@@ -31,3 +31,4 @@ int Multiply(int A, int B)  //implementation
 	z = A * B;
 	return z;
 }
+----EOD-------
